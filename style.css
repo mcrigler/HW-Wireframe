@@ -1,3 +1,7 @@
+*{
+	box-sizing: border-box;
+}
+
 body {
 	background: #777;
 	width:100%;
@@ -58,7 +62,7 @@ p{
 aside{
 	background: #ebebeb;
 	width: 450px;
-	height: 180px;
+	height: 200px;
 	float: left;
 	padding-top: 20px;
 	margin: 0px 0px 15px 15px;
